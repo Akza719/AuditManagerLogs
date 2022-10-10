@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2hix0zohgIeNOHQLRLOd3YEcM5Jh0YsofR/coF0Sv6CYut3dD4rLkAOjuh/CwHwkMZLaSSJwLmk4cP8RrHWDjg==",
+  "dgSpecHash": "1BF5UcwfUykAkNvdC/Rlpg7qvssUdvVYNj+3U6P01I+KWZd6ZlSZ5qT8yo1srqGukQkqzxmbrwiXgK1koHpUJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akza.varghese\\source\\repos\\AuditManagerLogs\\AuditAPI\\AuditAPI.csproj",
+  "projectFilePath": "D:\\AuditManagerLogs\\AuditManagerLogs\\AuditAPI\\AuditAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

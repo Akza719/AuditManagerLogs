@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akza.varghese\\source\\repos\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
+      "projectUniqueName": "D:\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
       "projectName": "AuditMVC",
-      "projectPath": "C:\\Users\\akza.varghese\\source\\repos\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
+      "projectPath": "D:\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
       "packagesPath": "C:\\Users\\akza.varghese\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akza.varghese\\source\\repos\\AuditManagerLogs\\AuditMVC\\obj\\",
+      "outputPath": "D:\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
