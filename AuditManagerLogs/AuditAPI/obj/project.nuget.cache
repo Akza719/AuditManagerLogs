@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2QOkp2Pw4A/1a8dIu/jgFpP5wVXnqCo6qM1C1vke1kHVWvjmdT68W4QmHV6Dv5UTb1B7HQeWAx4dLs4q2B1TQ==",
+  "dgSpecHash": "F3+nxWMAbYyT0gY4eWvhuWe+rKOB8UnTvoHK3GSuw7ZdpdLXQ4G8wqjtK9aMBQ5kUm2PIXTIIs/YS655QBHUXQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditAPI\\AuditAPI.csproj",
+  "projectFilePath": "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditAPI\\AuditAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

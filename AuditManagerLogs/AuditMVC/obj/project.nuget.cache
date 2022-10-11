@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bV5szq9KHCnjrCNMWQKHyou+znylKErj2QMcY2lUSaZQonz5ixsJr8fs5jhcC96QHqd29CYofRpHhnJrRzpeVQ==",
+  "dgSpecHash": "hCv2LG1KmhHivKqFMpmBsxEC0nZ6Yt3zuC92KpbZzsS02146TieEX0HOTlwkCTcepkQUZQZ+sBajUy7z9s2TFA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
+  "projectFilePath": "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

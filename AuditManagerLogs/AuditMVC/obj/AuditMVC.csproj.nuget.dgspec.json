@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj": {}
+    "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj": {
+    "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
+        "projectUniqueName": "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
         "projectName": "AuditMVC",
-        "projectPath": "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
+        "projectPath": "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\AuditMVC.csproj",
         "packagesPath": "C:\\Users\\akza.varghese\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\obj\\",
+        "outputPath": "C:\\Project\\AuditManagerLogs\\AuditManagerLogs\\AuditMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
